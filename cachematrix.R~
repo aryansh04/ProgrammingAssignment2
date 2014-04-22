@@ -1,7 +1,7 @@
-## Following two functions calculate the inverse of a matrix and cache its value
+## Following two functions calculate the inverse of the matrix and cache its value
 ## so that it need not be calculated over and over again.
 
-## 'makeCacheMatrix' returns a list containing 4 different functions given below:
+## 'makeCacheMatrix' returns a list of precisely 4 different functions given below:
 # 1. Set a matrix
 # 2. Get a matrix
 # 3. Set an Inverse of matrix
